@@ -1,2 +1,2 @@
 # My library
- Lists the books that teach me a lot！
+ Stores the books that teach me a lot！
